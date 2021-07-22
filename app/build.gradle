@@ -49,4 +49,5 @@ dependencies {
     implementation 'com.github.clans:fab:1.6.4'
     implementation platform('com.google.firebase:firebase-bom:26.3.0')
     implementation 'com.google.firebase:firebase-database-ktx'
+    implementation "com.github.prolificinteractive:material-calendarview:1.4.3"
 }
